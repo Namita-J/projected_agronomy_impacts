@@ -1,0 +1,40 @@
+{
+  "title": "projected_agronomy_impacts: Bootstrapped analysis of crop yield response to climate change and adaptation",
+  "version": "v1.2.2",
+  "upload_type": "software",
+  "publication_date": "2025-08-04",
+  "description": "This repository contains R code and data for modeling projected yield impacts of climate change on maize, rice, and wheat. The script includes bootstrapped polynomial fits and visualizations for multiple adaptation strategies.",
+  "creators": [
+    {
+      "name": "Joshi, Namita",
+      "orcid": "https://orcid.org/0009-0006-1473-7718",
+      "affiliation": "Alliance of Bioversity and CIAT"
+    },
+    {
+      "name": "Rosenstock, Todd",
+      "orcid": "https://orcid.org/0000-0002-1958-9500",
+      "affiliation": "Alliance of Bioversity and CIAT"
+    },
+    {
+      "name": "Steward, Peter",
+      "orcid": "https://orcid.org/0000-0003-3985-4911",
+      "affiliation": "Alliance of Bioversity and CIAT"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "climate change",
+    "yield",
+    "adaptation",
+    "R",
+    "agriculture",
+    "meta-analysis"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Namita-J/projected_agronomy_impacts",
+      "scheme": "url"
+    }
+  ]
+}
