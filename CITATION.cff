@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it using the metadata below."
+title: "projected_agronomy_impacts: Bootstrapped analysis of crop yield response to climate change and adaptation"
+version: v1.0.0
+date-released: 2025-08-04
+doi: 10.5281/zenodo.16737534
+authors:
+  - family-names: Joshi
+    given-names: Namita
+    orcid: https://orcid.org/0009-0006-1473-7718
+    affiliation: Alliance of Bioversity and CIAT
+
+  - family-names: Rosenstock
+    given-names: Todd
+    orcid: https://orcid.org/0000-0002-1958-9500
+    affiliation: Alliance of Bioversity and CIAT
+
+  - family-names: Steward
+    given-names: Peter
+    orcid: https://orcid.org/0000-0003-3985-4911
+    affiliation: Alliance of Bioversity and CIAT
+
+repository-code: https://github.com/Namita-J/projected_agronomy_impacts
+license: MIT
