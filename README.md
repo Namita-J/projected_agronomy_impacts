@@ -1,5 +1,3 @@
-# projected_agronomy_impacts
-
 # Climate Adaptation Meta-Analysis: Yield Impact Bootstrapping
 
 This repository contains code and cleaned data used to analyze the projected yield impacts of climate change on maize, rice, and wheat under different adaptation strategies. The analysis uses bootstrapped polynomial regression models to assess non-linear responses and quantify uncertainty.
